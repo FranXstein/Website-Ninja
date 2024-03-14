@@ -1,0 +1,21 @@
+body, html{
+    height:100%;
+    font-style: italic;
+    font-family: 'Verdana';
+    color: aliceblue;
+}
+.bg{
+    background-image: url(../img/bg-login.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sidebar-container {
+    padding: 20px;
+    margin: 10px;
+}
+
+#tombolmain{
+    padding: 30px;
+}
